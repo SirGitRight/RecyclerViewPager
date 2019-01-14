@@ -42,7 +42,7 @@ repositories {
 
 dependencies {
     ...
-    compile 'com.github.lsjwzh.RecyclerViewPager:lib:v1.2.0@aar'
+    compile 'com.github.lsjwzh.RecyclerViewPager:lib:v1.1.2@aar'
     ...
 }
 ```
